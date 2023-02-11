@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author brian
- *
- */
-module France {
-}
